@@ -52,16 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-swaminathan&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=arjun-swaminathan&theme=tokyonight" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-swaminathan&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 
 ### 🌐 Connect with Me  
 <p align="center">
