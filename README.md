@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me  
 - 🎓 Studying **Computer Science & Business Systems @ SRMIST**  
 - 🏆 **Smart India Hackathon 2024 National Winner**  
-- ⚡ Joint Head Working Committee at **White Hat Hackers Club** | Member at **Next Gen Intelligence Club**  
+- ⚡ Joint Head of Working Committee at **White Hat Hackers Club** 
 - 🔭 Building projects in **AI, Microservices, Blockchain & Emerging Tech**  
 - 🌱 Currently exploring **ML for Agriculture & AI-Powered Assistants**  
 - 💡 Passionate about **hackathons, open-source & solving real-world problems**  
