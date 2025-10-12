@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Arjun Swaminathan -->
 
 <h1 align="center">Hi 👋, I'm Arjun Swaminathan</h1>
-<h3 align="center">🚀 CS & Business Systems Student @ SRM | Hackathon Winner | AI & Emerging Tech Enthusiast</h3>
+<h3 align="center">🚀 CS & Business Systems Student @ SRM | Smart India Hackathon Winner | AI & Emerging Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/arjun-swaminathan">
