@@ -42,7 +42,7 @@
 
 ## 🚀 **Highlighted Projects**
 
-### **Krushi Jyothishi**
+### 🌱 **Krushi Jyothishi**
 AI-ML Based Price Prediction System for Agri-Horticultural Commodities
 Developed an end-to-end AI/ML solution to forecast prices of pulses and vegetables using historical trends, market patterns, and predictive modeling. Designed to support farmers with data-driven insights and reduce price volatility.
 Tech: Python, Machine Learning, Time-Series Forecasting, Data Preprocessing, Model Evaluation, Visualization
