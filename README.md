@@ -17,7 +17,7 @@
 📚 Pursuing **Computer Science & Business Systems (CSBS)** at SRM IST.  
 🏆 **Smart India Hackathon 2024 National Winner** — Agriculture AI solution.  
 🚀 Working on projects in **AI, ML, NLP, RAG, Microservices, OCR, Satellite Imagery, and UI/UX**.  
-🔥 Active in **ArrowDev**, **Next Gen Intelligence Club**, Hackathons & AI Research.
+🔥 Active in **White Hat Hachers Club**, Hackathons & AI Research.
 
 ---
 
@@ -41,6 +41,13 @@
 ---
 
 ## 🚀 **Highlighted Projects**
+
+### **Krushi Jyothishi**
+AI-ML Based Price Prediction System for Agri-Horticultural Commodities
+Developed an end-to-end AI/ML solution to forecast prices of pulses and vegetables using historical trends, market patterns, and predictive modeling. Designed to support farmers with data-driven insights and reduce price volatility.
+Tech: Python, Machine Learning, Time-Series Forecasting, Data Preprocessing, Model Evaluation, Visualization
+
+---
 
 ### 🧠 **Project Kisan – AI Assistant for Farmers**
 AI-powered agricultural system with **disease detection, satellite-based analysis, market prediction & multilingual voice support**.  
