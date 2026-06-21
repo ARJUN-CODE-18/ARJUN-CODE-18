@@ -1,101 +1,316 @@
-<!-- ======================================== -->
-<!--        ARJUN SWAMINATHAN — PROFILE       -->
-<!-- ======================================== -->
+<!-- ================= HERO SECTION ================= -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#4E9F3D;">Arjun Swaminathan</span></h1>
-<h3 align="center">AI & Emerging Tech | CSBS @ SRM | SIH 2024 Winner | Full-Stack & ML Developer</h3>
+<div align="center">
 
-<!-- Typing Animation -->
+# 👋 Hi, I'm Arjun Swaminathan
+
+### Software Engineer • Backend Developer • AI/ML Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C4FF&center=true&vCenter=true&width=800&lines=Smart+India+Hackathon+2024+National+Winner;Software+Developer+Intern+%40+VERTIHUB;Backend+Engineering+%7C+FastAPI+%7C+PostgreSQL;AI%2FML+Applications+%7C+RAG+Systems;Building+Scalable+Systems+and+Real+World+Products" />
+
+<br>
+
+<img src="https://img.shields.io/badge/CGPA-9.18%2F10-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SIH_2024-National_Winner-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_To-Software_Engineering-green?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ARJUN-CODE-18&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 Computer Science & Business Systems Student @ SRM Institute of Science and Technology
+
+🏆 National Winner – Smart India Hackathon 2024
+
+💼 Former Software Developer Intern @ VERTIHUB (IITM NIRMAAN)
+
+⚙️ Passionate about:
+
+* Backend Engineering
+* Distributed Systems
+* AI/ML Applications
+* Cloud-Native Development
+* System Design
+
+📍 Currently building AI-powered and scalable software solutions.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,sql"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gcp,linux"/>
+</p>
+
+### AI / ML
+
+* TensorFlow
+* PyTorch
+* Scikit-Learn
+* NLP
+* RAG
+* LLM Applications
+* Ollama
+* Vector Databases
+
+---
+
+# 💼 Experience
+
+## Software Developer Intern
+
+### VERTIHUB | IITM NIRMAAN
+
+📅 Jan 2026 – May 2026
+
+* Developed full-stack aviation platforms
+* Built scalable FastAPI backend services
+* Designed PostgreSQL database architectures
+* Implemented operational monitoring modules
+* Worked on autonomous aircraft management systems
+* Contributed to mission planning and telemetry solutions
+
+---
+
+# 🏆 Achievements
+
+🥇 Smart India Hackathon 2024 National Winner
+
+👨‍💻 Selected among 5 finalist teams from 4,00,000+ participants
+
+🌾 Built an AI-powered agricultural intelligence platform
+
+📈 Maintaining CGPA of 9.18/10
+
+---
+
+# 🚀 Featured Projects
+
+## ✈️ VAMS
+
+### Autonomous Aircraft Management & Monitoring System
+
+Tech:
+FastAPI • React • PostgreSQL • Docker
+
+✔ Aircraft Lifecycle Management
+
+✔ Mission Planning
+
+✔ Telemetry Tracking
+
+✔ Hazard Analysis
+
+✔ Operational Monitoring
+
+---
+
+## 🌾 Project Kisan
+
+AI-powered agricultural assistant
+
+Tech:
+Python • FastAPI • React • Computer Vision • Google AI
+
+Features:
+
+✔ Disease Detection
+
+✔ Satellite Analysis
+
+✔ Market Intelligence
+
+✔ Voice Assistant
+
+✔ Government Scheme Guidance
+
+---
+
+## ⚖️ SmartComp
+
+AI Legal Contract Comparator
+
+Tech:
+
+FastAPI • NLP • FAISS • React
+
+✔ Clause Comparison
+
+✔ Semantic Search
+
+✔ Risk Detection
+
+---
+
+## 📄 ResumeQnA
+
+AI Resume Screening System
+
+Tech:
+
+Flask • OCR • Ollama • MySQL
+
+✔ Resume Parsing
+
+✔ Candidate Evaluation
+
+✔ Interview Question Generation
+
+---
+
+## 📈 Krushi Jyothishi
+
+Commodity Price Forecasting Platform
+
+Tech:
+
+Python • NHITS • Darts • Streamlit
+
+✔ Agricultural Forecasting
+
+✔ Predictive Analytics
+
+✔ Decision Support
+
+---
+
+## 🧩 Microservice-Based Scalable Application Framework
+
+Tech:
+
+FastAPI • PostgreSQL • Docker • Kubernetes Architecture
+
+✔ API Gateway
+
+✔ Service Discovery
+
+✔ Scalable Design
+
+✔ CI/CD Pipeline
+
+---
+
+# 🎯 Leadership
+
+### Head Treasurer
+
+White Hat Hackers Club
+
+* Budget Planning
+* Event Management
+* Resource Allocation
+
+### Executive Director of Social Media
+
+Department of CSE (Emerging Technologies)
+
+* Digital Strategy
+* Technical Event Promotions
+* Student Engagement
+
+---
+
+# 📜 Certifications
+
+🏅 NPTEL DBMS (Elite)
+
+🏅 NPTEL Programming in Java (Elite)
+
+🏅 NPTEL Design Thinking (Elite)
+
+🏅 NPTEL Introduction to Machine Learning
+
+🏅 Infosys Springboard Network Fundamentals
+
+🏅 Infosys Springboard Introduction to Unix
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARJUN-CODE-18&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ARJUN-CODE-18&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-CODE-18&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ARJUN-CODE-18&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Full+Stack+Engineer;Smart+India+Hackathon+2024+Winner;NextGen+Tech+%7C+ML%2FDeep+Learning;Microservices+%7C+Cloud+%7C+RAG+Systems;Always+learning+something+new+🚀" />
+
+<a href="https://linkedin.com/in/arjun-swaminathan">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/ARJUN-CODE-18">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
 ---
 
-## 🧑‍💻 **About Me**
-🌟 Passionate developer focused on **AI, cloud systems, scalable architectures, and real-world problem solving**.  
-📚 Pursuing **Computer Science & Business Systems (CSBS)** at SRM IST.  
-🏆 **Smart India Hackathon 2024 National Winner** — Agriculture AI solution.  
-🚀 Working on projects in **AI, ML, NLP, RAG, Microservices, OCR, Satellite Imagery, and UI/UX**.  
-🔥 Active in **White Hat Hachers Club**, Hackathons & AI Research.
+<div align="center">
 
----
+### "Building scalable software that creates real-world impact."
 
-## 🛠️ **Tech Stack I Work With**
-<p align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,java" />
-
-<!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=react,fastapi,flask,nodejs,express" />
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-
-<!-- Tools & Cloud -->
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,figma" />
-
-</p>
-
----
-
-## 🚀 **Highlighted Projects**
-
-### 🌱 **Krushi Jyothishi**
-AI-ML Based Price Prediction System for Agri-Horticultural Commodities
-Developed an end-to-end AI/ML solution to forecast prices of pulses and vegetables using historical trends, market patterns, and predictive modeling. Designed to support farmers with data-driven insights and reduce price volatility.
-Tech: Python, Machine Learning, Time-Series Forecasting, Data Preprocessing, Model Evaluation, Visualization
-
----
-
-### 🧠 **Project Kisan – AI Assistant for Farmers**
-AI-powered agricultural system with **disease detection, satellite-based analysis, market prediction & multilingual voice support**.  
-**Tech:** Python, ML, Vision Models, React, FastAPI, Google AI  
-
----
-
-### 📄 **ResumeQnA – Smart Resume Analyzer + Interview Question Generator**
-Extracts resume text, analyzes content, and generates intelligent job-specific questions.  
-**Tech:** Flask, OCR, ML, React, MySQL  
-
----
-
-### ⚖️ **SmartComp – AI Legal Contract Comparator**
-Compares contracts and detects clause-level differences using AI.  
-**Tech:** NLP, FastAPI, React, Embeddings, FAISS  
-
----
-
-### 👥 **Employee Insight Tool**
-Dashboard to visualize employee performance with predictive analytics.  
-**Tech:** React, Node.js, MySQL, Cloud Storage  
-
----
-
-### 🧩 **Microservice-Based Scalable Application Framework**
-Modular microservice architecture with API gateway, auto-scaling design & CI/CD integration.  
-**Tech:** Node.js, FastAPI, PostgreSQL, Kubernetes (design), Modular Services
-
----
-
-## 🌐 **Connect with Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/arjun-swaminathan/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email-here@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/arjun-swaminathan">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>✨ "Innovating today to create a smarter tomorrow." ✨</strong>
-</p>
+</div>
