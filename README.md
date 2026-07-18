@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/CGPA-9.18%2F10-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.03%2F10-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SIH_2024-National_Winner-gold?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open_To-Software_Engineering-green?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=ARJUN-CODE-18&style=for-the-badge"/>
